@@ -15,7 +15,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 Didn't have much time to do much today, so I just created the KiCad project and pushed the init commit to the repo. This is really all I did and now I'm just writing to post to the journal because for some reason you need two hundred and fifty characters to post an update! ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--fbe3f56bc08c941de03a781369a5a0fbd45eb5e4/image.png)
   
 
-## 10/12/2025 - Found the KiCad footprints for the RP2354B  
+## 10/12/2025 11:24 PM - Found the KiCad footprints for the RP2354B  
 
 After hours, and even days of searching, I have found it. 
 
@@ -24,5 +24,12 @@ I have found the KiCad library for the latest Raspberry Pi microcontrollers!
 This will save me countless hours because I don't need to make it myself! Also I found the Radio Module 2 also from Raspberry Pi to allow wireless connection between my laptop and keeb!
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ddc522820bb6f2ed41197f3bf3bbc17bf3879e2/image.png)
+  
+
+## 10/12/2025 11:32 PM - Also found the Radio Module 2 footprint!  
+
+I also found the Radio Module 2 footprint! Just figured I should add it in. Now I just need to yap about this for another two hundred twenty characters approximately or so to be able to actually post this through the blueprint graphical user interface!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--345508e707783c2888e1055093cd6a8ddc7045e1/image.png)
   
 
