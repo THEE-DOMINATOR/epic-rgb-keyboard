@@ -33,3 +33,10 @@ I also found the Radio Module 2 footprint! Just figured I should add it in. Now 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--345508e707783c2888e1055093cd6a8ddc7045e1/image.png)
   
 
+## 10/16/2025 - Added all the keys to the schematic  
+
+I added all of the letter and symbol keys to the schematic! While I didn't have time to wire them, nor have I added the numerical pad yet, this is major progress! I may add a hackpad into this keyboard if all goes well! It's all contingent on how I balance this with homework...
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--99771142316acb4d317ccf6c3d5d8a9daefe5226/image.png)
+  
+
