@@ -40,3 +40,10 @@ I added all of the letter and symbol keys to the schematic! While I didn't have 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQ3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--99771142316acb4d317ccf6c3d5d8a9daefe5226/image.png)
   
 
+## 10/18/2025 - Rearranged and finished adding all the keys to the schematic  
+
+I used an image overlay of a logitech keyboard to arrange the keys on my own keyboard! I also added the buttons for the integrated macropad. I'm still working on where I will place the LEDs, it all depends on what keys I go with and what their footprint is.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--3b1e60279c05dc4e29d0b8f8acff2986fd5e87e4/image.png)
+  
+
